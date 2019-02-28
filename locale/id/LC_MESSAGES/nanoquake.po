@@ -1,0 +1,302 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-02-17 15:38+0000\n"
+"PO-Revision-Date: 2019-02-17 19:58+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: Test/yquake2/start.py:40
+msgid "Error - empty seed, please delete your seedAES.txt and start again"
+msgstr "Error- seed kosong, silahkan hapus seedAES,txt dan mulai lagi"
+
+#: Test/yquake2/start.py:112
+msgid "Shutting down Quake"
+msgstr "Mematikan Quake"
+
+#: Test/yquake2/start.py:117
+msgid "Pay Nano to Server"
+msgstr "Membayar Nano untuk server"
+
+#: Test/yquake2/start.py:132 Test/yquake2/start.py:166
+msgid "Error - empty balance"
+msgstr "Error - saldo kosong"
+
+#: Test/yquake2/start.py:135 Test/yquake2/start.py:168
+msgid "Error - timeout checking balance"
+msgstr "Error – batas waktu memeriksa saldo"
+
+#: Test/yquake2/start.py:144
+msgid "Payment Sent"
+msgstr "Pembayaran terkirim"
+
+#: Test/yquake2/start.py:147
+msgid "Error - insufficient funds"
+msgstr "Error – saldo tidak mencukupi"
+
+#: Test/yquake2/start.py:148
+msgid "Error insufficent funds"
+msgstr "Error saldo tidak mencukupi"
+
+#: Test/yquake2/start.py:151 Test/yquake2/start.py:152
+msgid "Last pay in less that 30 seconds ago"
+msgstr "Pembayaran terakhir dalam waktu kurang dari 30 detik yang lalu"
+
+#: Test/yquake2/start.py:157
+msgid "Nano Balance"
+msgstr "Saldo Nano"
+
+#: Test/yquake2/start.py:205
+msgid "Listening on %s:%d..."
+msgstr "Mendengarkan pada %s:%d…"
+
+#: Test/yquake2/start.py:229
+msgid "Enter Your Password"
+msgstr "Masukkan kata sandi anda"
+
+#: Test/yquake2/start.py:235
+msgid "Enter New Password"
+msgstr "Masukkan kata sandi baru"
+
+#: Test/yquake2/start.py:241
+msgid "Confirm"
+msgstr "Konfirmasi"
+
+#: Test/yquake2/start.py:247 Test/yquake2/start.py:317
+#: Test/yquake2/start.py:382 Test/yquake2/start.py:407
+msgid "OK"
+msgstr "OK"
+
+#: Test/yquake2/start.py:311
+msgid "Destination Address"
+msgstr "Alamat tujuan"
+
+#: Test/yquake2/start.py:323
+msgid "Error - timeout, try again"
+msgstr "Error -  Waktu habis, coba lagi"
+
+#: Test/yquake2/start.py:341
+msgid "Show Disclaimer"
+msgstr "Tampilkan Penolakan"
+
+#: Test/yquake2/start.py:343
+msgid "Show My Seed"
+msgstr "Perlihatkan Seed Saya"
+
+#: Test/yquake2/start.py:345
+msgid "Change My Language"
+msgstr "Ubah Bahasa Saya"
+
+#: Test/yquake2/start.py:347
+msgid "Back"
+msgstr "Kembali"
+
+#: Test/yquake2/start.py:363
+msgid "Restarting with new settings"
+msgstr "Mulai ulang dengan pengaturan baru"
+
+#: Test/yquake2/start.py:379
+msgid ""
+"DISCLAIMER\n"
+"* To participate in the NanoQuake events you must be a natural person who is "
+"at least 18 years of age or older.\n"
+"* It is your responsibility to determine whether the state, country, "
+"territory or jurisdiction in which you are located, permits the usage of "
+"NanoQuake software and the ability to pay-in to a game."
+msgstr ""
+
+#: Test/yquake2/start.py:399
+msgid "Generate New Seed"
+msgstr "Menghasilkan Seed baru"
+
+#: Test/yquake2/start.py:402
+msgid "Import Seed"
+msgstr "Impor Seed"
+
+#: Test/yquake2/start.py:413
+msgid "Wallet Seed (make a copy of this in a safe place!): {}"
+msgstr "Wallet Seed (buat salinan ini di tempat yang aman!): {}"
+
+#: Test/yquake2/start.py:432
+msgid "Download Pak Files"
+msgstr "Download Pak file"
+
+#: Test/yquake2/start.py:434
+msgid "Yes"
+msgstr "Ya"
+
+#: Test/yquake2/start.py:436
+msgid "No"
+msgstr "Tidak"
+
+#: Test/yquake2/start.py:442
+msgid "Download Status"
+msgstr "Download status"
+
+#: Test/yquake2/start.py:462
+msgid "Downloading..."
+msgstr "Sedang mendownload…"
+
+#: Test/yquake2/start.py:463
+msgid "Downloading Demo Pak..."
+msgstr "Sedang mendownload Demo Pak…"
+
+#: Test/yquake2/start.py:469
+msgid "Failed to download demo files"
+msgstr "Gagal untuk download demo file"
+
+#: Test/yquake2/start.py:473
+msgid "Download Complete, now unzipping..."
+msgstr "Download selesai, sekarang unzip…"
+
+#: Test/yquake2/start.py:474
+msgid "Download Complete, now unzipping"
+msgstr "Download selesai, sekarang unzip"
+
+#: Test/yquake2/start.py:479 Test/yquake2/start.py:480
+msgid "Copying Files"
+msgstr "Mencopy file"
+
+#: Test/yquake2/start.py:486
+msgid "Grabbing Curl Files"
+msgstr "Meraih Curl File"
+
+#: Test/yquake2/start.py:494
+msgid "Failed to download curl files"
+msgstr "Gagal untuk mendownload curl file"
+
+#: Test/yquake2/start.py:535
+msgid "Quake already running"
+msgstr "Quake sudah berjalan"
+
+#: Test/yquake2/start.py:540
+msgid "Starting Quake2"
+msgstr "Mulai Quake2"
+
+#: Test/yquake2/start.py:556
+msgid "Shutdown Socket Server and Exit"
+msgstr "Mematikan Socket Server dan Keluar"
+
+#: Test/yquake2/start.py:562
+msgid "Checking for update"
+msgstr "Memerikasa Update"
+
+#: Test/yquake2/start.py:571
+msgid "Processing..."
+msgstr "Sedang di proses…"
+
+#: Test/yquake2/start.py:579
+msgid "Opening Account"
+msgstr "Membuka Akun"
+
+#: Test/yquake2/start.py:581 Test/yquake2/start.py:589
+msgid "Reply {} {}"
+msgstr "Balasan {} {}"
+
+#: Test/yquake2/start.py:594
+msgid "Error processing blocks"
+msgstr "Error saat memproses blok"
+
+#: Test/yquake2/start.py:601 Test/yquake2/start.py:785
+msgid "Timeout"
+msgstr "Waktu habis"
+
+#: Test/yquake2/start.py:603
+msgid "Account Not Open"
+msgstr "Akun tidak dibuka"
+
+#: Test/yquake2/start.py:719 Test/yquake2/start.py:735
+msgid "Public Key: "
+msgstr "Publik Key:"
+
+#: Test/yquake2/start.py:722 Test/yquake2/start.py:738
+msgid "Account Address: "
+msgstr "Alamat Akun:"
+
+#: Test/yquake2/start.py:729
+msgid "Seed file found"
+msgstr "File seed ditemukan"
+
+#: Test/yquake2/start.py:730
+msgid "Decoding wallet seed with your password"
+msgstr "Decoding wallet seed dengan kata sandi anda"
+
+#: Test/yquake2/start.py:746
+msgid "This is your game account address: {}"
+msgstr "Ini adalah alamat akun game anda: {}"
+
+#: Test/yquake2/start.py:749
+msgid ""
+"\n"
+"Balance: {:.3} Nano\n"
+msgstr ""
+"\n"
+"Saldo: {:.3} Nano \n"
+
+#: Test/yquake2/start.py:755
+msgid "NANO Rates"
+msgstr "Tarif Nano"
+
+#: Test/yquake2/start.py:773
+msgid "Your Game Account: "
+msgstr "Akun game anda:"
+
+#: Test/yquake2/start.py:780
+msgid "Your Balance: "
+msgstr "Saldo anda:"
+
+#: Test/yquake2/start.py:792
+msgid "Start Game"
+msgstr "Memulai Permainan"
+
+#: Test/yquake2/start.py:795
+msgid "Withdraw All"
+msgstr "Withdraw semua"
+
+#: Test/yquake2/start.py:798
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: Test/yquake2/start.py:801
+msgid "Exit"
+msgstr "Keluar"
+
+#~ msgid "Starting NanoQuake2..."
+#~ msgstr "Mulai NanoQuake2…"
+
+#~ msgid "Current Dir: {}"
+#~ msgstr "Current Dir: {}"
+
+#~ msgid "System: {}"
+#~ msgstr "System: {}"
+
+#~ msgid "Work Dir: {}"
+#~ msgstr "Work Dir: {}"
+
+#~ msgid "Making a new config directory"
+#~ msgstr "Membuat direktori config baru"
+
+#~ msgid "Error - system not recognised"
+#~ msgstr "Error- sistem tidak di kenal"
+
+#~ msgid "Config Directory: {}"
+#~ msgstr "Config Directory: {}"
+
+#~ msgid ""
+#~ "Old seed file detected, as encryption has been upgraded please import "
+#~ "your old seed, you can extract it with the decodeOldseed.py script"
+#~ msgstr ""
+#~ "File seed lama terdeteksi , karena enkripsi telah ditingkatkan, silakan "
+#~ "impor seed lama Anda, Anda dapat mengekstraknya dengan skrip "
+#~ "decodeOldseed.py"

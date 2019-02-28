@@ -1,0 +1,277 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-01-26 13:01+0000\n"
+"PO-Revision-Date: 2019-02-17 21:55+0000\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Last-Translator: \n"
+"Language: fr_FR\n"
+
+#: start.py:48
+msgid "Error - empty seed, please delete your seedAES.txt and start again"
+msgstr ""
+"Erreur - Seed manquante, supprimez le fichier seedAES.txt et redémarrez"
+
+#: start.py:120
+msgid "Shutting down Quake"
+msgstr "Fermeture de Quake"
+
+#: start.py:125
+msgid "Pay Nano to Server"
+msgstr "Envoyez des Nano au serveur"
+
+#: start.py:140 start.py:174
+msgid "Error - empty balance"
+msgstr "Erreur - balance insuffisante"
+
+#: start.py:143 start.py:176
+msgid "Error - timeout checking balance"
+msgstr "Erreur - délais d’attente dépassé"
+
+#: start.py:152
+msgid "Payment Sent"
+msgstr "Paiement envoyé"
+
+#: start.py:155
+msgid "Error - insufficient funds"
+msgstr "Erreur - fonds insuffisants"
+
+#: start.py:156
+msgid "Error insufficent funds"
+msgstr "Erreur fonds insuffisants"
+
+#: start.py:159 start.py:160
+msgid "Last pay in less that 30 seconds ago"
+msgstr "Dernier paiement il y a moins de 30 secondes"
+
+#: start.py:165
+msgid "Nano Balance"
+msgstr "Balance Nano"
+
+#: start.py:213
+msgid "Listening on %s:%d..."
+msgstr "Ecoute de %s:%d…"
+
+#: start.py:237
+msgid "Enter Your Password"
+msgstr "Entrez votre mot de passe"
+
+#: start.py:243
+msgid "Enter New Password"
+msgstr "Entrez un nouveau mot de passe"
+
+#: start.py:249
+msgid "Confirm"
+msgstr "Confirmer"
+
+#: start.py:255 start.py:290 start.py:321
+msgid "OK"
+msgstr "OK"
+
+#: start.py:284
+msgid "Destination Address"
+msgstr "Adresse de destination"
+
+#: start.py:296
+msgid "Error - timeout, try again"
+msgstr "Erreur - Délais d’attente dépassé, essayez à nouveau"
+
+#: start.py:313
+msgid "Generate New Seed"
+msgstr "Générer une nouvelle seed"
+
+#: start.py:316
+msgid "Import Seed"
+msgstr "Importer une seed"
+
+#: start.py:327
+msgid "Wallet Seed (make a copy of this in a safe place!): {}"
+msgstr ""
+"Seed de votre portefeuille (faites une copie de celle-ci dans un endroit "
+"sûr !): {}"
+
+#: start.py:346
+msgid "Download Pak Files"
+msgstr "Télécharger les fichiers Pak"
+
+#: start.py:348
+msgid "Yes"
+msgstr "Oui"
+
+#: start.py:350
+msgid "No"
+msgstr "Non"
+
+#: start.py:353
+msgid "Download Status"
+msgstr "Etat du téléchargement"
+
+#: start.py:358
+msgid "Downloading..."
+msgstr "En cours de téléchargement…"
+
+#: start.py:359
+msgid "Downloading Demo Pak..."
+msgstr "Téléchargement du Demo Pak…"
+
+#: start.py:365
+msgid "Failed to download demo files"
+msgstr "Echec lors du téléchargement des fichiers de démo"
+
+#: start.py:369
+msgid "Download Complete, now unzipping..."
+msgstr "Téléchargement terminé, décompression en cours…"
+
+#: start.py:370
+msgid "Download Complete, now unzipping"
+msgstr "Téléchargement terminé, décompression en cours"
+
+#: start.py:375 start.py:376
+msgid "Copying Files"
+msgstr "Copie des fichiers"
+
+#: start.py:382
+msgid "Grabbing Curl Files"
+msgstr "Récupération des fichiers Curl"
+
+#: start.py:390
+msgid "Failed to download curl files"
+msgstr "Echec lors du téléchargement des fichiers Curl"
+
+#: start.py:431
+msgid "Quake already running"
+msgstr "Quake est déjà exécuté"
+
+#: start.py:436
+msgid "Starting Quake2"
+msgstr "Démarrage de Quake2"
+
+#: start.py:453
+msgid "Shutdown Socket Server and Exit"
+msgstr "Extinction des sockets serveur et fermeture"
+
+#: start.py:459
+msgid "Checking for update"
+msgstr "Recherche de mise à jour"
+
+#: start.py:468
+msgid "Processing..."
+msgstr "En cours…"
+
+#: start.py:476
+msgid "Opening Account"
+msgstr "Ouvrir un compte"
+
+#: start.py:478 start.py:486
+msgid "Reply {} {}"
+msgstr "Réponse {} {}"
+
+#: start.py:491
+msgid "Error processing blocks"
+msgstr "Erreur lors du traitement des blocks"
+
+#: start.py:498 start.py:643
+msgid "Timeout"
+msgstr "Délais d’attente dépassé"
+
+#: start.py:500
+msgid "Account Not Open"
+msgstr "Compte non ouvert"
+
+#: start.py:507
+msgid "Starting NanoQuake2..."
+msgstr "Démarrage de NanoQuake2…"
+
+#: start.py:509
+msgid "Current Dir: {}"
+msgstr "Dossier courant: {}"
+
+#: start.py:510
+msgid "System: {}"
+msgstr "Système: {}"
+
+#: start.py:519
+msgid "Work Dir: {}"
+msgstr "Dossier de travail: {}"
+
+#: start.py:525 start.py:532
+msgid "Making a new config directory"
+msgstr "Créer un nouveau dossier de configuration"
+
+#: start.py:537
+msgid "Error - system not recognised"
+msgstr "Erreur - système non reconnu"
+
+#: start.py:541
+msgid "Config Directory: {}"
+msgstr "Dossier de configuration: {}"
+
+#: start.py:545
+msgid ""
+"Old seed file detected, as encryption has been upgraded please import your "
+"old seed, you can extract it with the decodeOldseed.py script"
+msgstr ""
+"Ancienne seed détectée, l’encryptage ayant été mis à jour importez à "
+"nouveau votre seed , vous pouvez l’extraire avec le script decodeOldseed.py"
+
+#: start.py:577 start.py:593
+msgid "Public Key: "
+msgstr "Clé publique: "
+
+#: start.py:580 start.py:596
+msgid "Account Address: "
+msgstr "Adresse du compte: "
+
+#: start.py:587
+msgid "Seed file found"
+msgstr "Fichier seed trouvé"
+
+#: start.py:588
+msgid "Decoding wallet seed with your password"
+msgstr "Décoder la seed du portefeuille avec votre mot de passe"
+
+#: start.py:604
+msgid "This is your game account address: {}"
+msgstr "Ceci est l’adresse de votre compte de jeu: {}"
+
+#: start.py:607
+msgid ""
+"\n"
+"Balance: {:.3} Nano\n"
+msgstr ""
+"\n"
+"Balance: {:.3} Nano\n"
+
+#: start.py:613
+msgid "NANO Rates"
+msgstr "Taux de change NANO"
+
+#: start.py:631
+msgid "Your Game Account: "
+msgstr "Votre compte de jeu: "
+
+#: start.py:638
+msgid "Your Balance: "
+msgstr "Votre balance: "
+
+#: start.py:650
+msgid "Start Game"
+msgstr "Commencer une partie"
+
+#: start.py:653
+msgid "Withdraw All"
+msgstr "Tout retirer"
+
+#: start.py:656
+msgid "Exit"
+msgstr "Fermer"
